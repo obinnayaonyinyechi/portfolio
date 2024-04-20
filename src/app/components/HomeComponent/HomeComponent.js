@@ -118,7 +118,7 @@ const HomeComponent = () => {
                   <p
                     className={`text-[#47AEDE] text-3xl md:text-base lg:text-2xl ${hind.className}`}
                   >
-                    Hi Their!
+                    Hi There!
                   </p>
                   <h1 className="text-[#223740] font-recoletaBlack text-5xl md:text-5xl lg:text-7xl xl:text-7xl mt-5 md:mt-3">
                     I am Obi
