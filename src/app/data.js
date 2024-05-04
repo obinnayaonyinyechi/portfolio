@@ -130,7 +130,7 @@ export const DataArray = [
   {
     title: "Crypto Trading Website",
     name: "Crypto Trading project",
-    des: "We buit this website for BigMoney group",
+    des: "We built this website for BigMoney group",
     des1: "This project was built to enable clients all over the world to buy and sell their crypto.",
 
     images: ["/crypto5.png", "/crypto3.png", "/crypto1.png"],
