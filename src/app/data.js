@@ -107,7 +107,7 @@ export const DataArray = [
   {
     title: "Food app Website Using React.js",
     name: "Eat App",
-    des: "I have made this Eat App project using React.js, Tailwind css, Vite and more to showcase it to clients and employers.",
+    des: "I have made this Eat App project using React.js, Tailwind CSS, Vite and more to showcase it to clients and employers.",
     des1: "This project was made using, React.js, Next.js, Express.js, Node.js and many more!",
     images: ["/eat-app.png"],
   },
